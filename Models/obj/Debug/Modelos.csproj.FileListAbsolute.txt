@@ -1,0 +1,12 @@
+C:\Users\Thiago\Desktop\Projeto Biblioteca\Projeto_Biblioteca\Models\bin\Debug\Models.dll
+C:\Users\Thiago\Desktop\Projeto Biblioteca\Projeto_Biblioteca\Models\bin\Debug\Models.pdb
+C:\Users\Thiago\Desktop\Projeto Biblioteca\Projeto_Biblioteca\Models\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto Biblioteca\Projeto_Biblioteca\Models\obj\Debug\Models.dll
+C:\Users\Thiago\Desktop\Projeto Biblioteca\Projeto_Biblioteca\Models\obj\Debug\Models.pdb
+C:\Users\Thiago\Desktop\Projeto Biblioteca\Projeto_Biblioteca\Models\obj\Debug\Modelos.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\Nova pasta\Biblioteca\Models\bin\Debug\Models.dll
+C:\Users\Thiago\Desktop\Nova pasta\Biblioteca\Models\bin\Debug\Models.pdb
+C:\Users\Thiago\Desktop\Nova pasta\Biblioteca\Models\obj\Debug\Modelos.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\Nova pasta\Biblioteca\Models\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Nova pasta\Biblioteca\Models\obj\Debug\Models.dll
+C:\Users\Thiago\Desktop\Nova pasta\Biblioteca\Models\obj\Debug\Models.pdb

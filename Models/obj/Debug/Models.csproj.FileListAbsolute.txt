@@ -1,0 +1,6 @@
+C:\Users\Thiago\Desktop\Projeto Biblioteca\Projeto_Biblioteca\Models\bin\Debug\Models.dll
+C:\Users\Thiago\Desktop\Projeto Biblioteca\Projeto_Biblioteca\Models\bin\Debug\Models.pdb
+C:\Users\Thiago\Desktop\Projeto Biblioteca\Projeto_Biblioteca\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto Biblioteca\Projeto_Biblioteca\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto Biblioteca\Projeto_Biblioteca\Models\obj\Debug\Models.dll
+C:\Users\Thiago\Desktop\Projeto Biblioteca\Projeto_Biblioteca\Models\obj\Debug\Models.pdb
